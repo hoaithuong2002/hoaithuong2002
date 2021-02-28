@@ -1,4 +1,4 @@
-<h1 align="center">Xin Chào, Tôi là Hoài Thương <a href="fb.com/100034426230327"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
+<h1 align="center">Xin Chào, Tôi là Hoài Thương <a href="fb.com/thuong2105"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
 <h3 align="center">Fresher Developer <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="25px"> in 🇻🇳VIỆT NAM🇻🇳</h3>
 
 - 💬 Hãy giúp tôi thêm về *PHP, Laravel and Angular, v..v..*
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="left">Liên Hệ Với Tôi:</h3>
 <p align="left">
   
-<a href="https://www.facebook.com/100034426230327" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="100034426230327" height="30" width="40" /></a>
+<a href="https://www.facebook.com/thuong2105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="th" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dgth2o2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dgth2o2" height="30" width="40" /></a>
 
 - 😄 Pronouns: ...
